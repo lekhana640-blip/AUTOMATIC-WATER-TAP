@@ -1,7 +1,1 @@
-# AUTOMATIC-WATER-TAP
 
-The Automatic Water Tap System is a contactless water dispensing solution designed to conserve water and improve hygiene. It operates using an infrared (IR) sensor that detects the presence of a hand near the tap. The sensor signal is processed by a control unit (Arduino or timer circuit), which activates a relay module to power a DC water pump, allowing water to flow. Once the hand is removed, the system instantly stops the water supply, ensuring minimal wastage.
-
-This project demonstrates how simple electronic components—IR sensor, microcontroller, relay, and pump—can be combined to create an efficient, low-cost, and user-friendly automation system. The design reduces water wastage by 40–60%, provides fast response (<1 second), and ensures touch-free operation, making it ideal for public places such as hospitals, schools, offices, and households.
-
-By integrating automation with sustainability, the system addresses everyday environmental challenges while promoting cleanliness. Future enhancements could include adjustable water flow, battery backup, and IoT integration for smart monitoring. Overall, the project highlights the practical application of sensor technology in modern water management.
